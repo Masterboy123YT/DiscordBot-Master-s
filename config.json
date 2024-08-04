@@ -1,0 +1,7 @@
+{
+    "Prefix": "", // Your bot's prefix. (example: !!)
+    "Owner": "", // Your Discord ID. (example: 1172368676536733802)
+    "Github": "https://github.com/Masterboy123YT",
+    "Invite": "", // Your bot's server invite. (example: https://discord.gg/RWSEj6JrjJ)
+    "Server": "" // Your bot's server ID. (example: 1268211332142993469)
+}
